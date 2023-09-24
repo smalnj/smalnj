@@ -1,5 +1,1 @@
-hello i am smal
-i am stupid
-yes
-^
-&
+what the hell is this
